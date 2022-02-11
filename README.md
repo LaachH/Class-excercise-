@@ -8,7 +8,7 @@ CoinSpot is a crypto exchange based in Melbourne, Australia. It hosts a variety 
 Their main competitors in the Australian crypto landscape include Swyftx, Digital Surge, eToro, and other top Australian crypto exchanges.  
 ## Fintech credentials
 Through blockchain innovation they have created a digital platform for cryptocurrency trading. 
- 
+ ![markdown-image](piglet.jpg)
 ### STRENGHTS
 Very user freindly and accessible. Opening up accessability to wider public, through a seamless interface and safe and secure payments.
 ### WEAKNESSES
